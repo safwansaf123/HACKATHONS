@@ -2,15 +2,17 @@ body {
 
     font-family: 'Arial', sans-serif;
     background-color: blueviolet;
-    margin: 0;
-    padding: 150px;
+    margin: 20;
+    padding: 40px;
+    
 }
 
 .resume-container {
 
 display:flex;
 background-color: white;
-width: 110%;
+width: 95%;
+
 margin: auto;
 background-origin: 10px;
 box-shadow: 0 0 20px wheat;
