@@ -1,0 +1,119 @@
+body {
+
+    font-family: 'Arial', sans-serif;
+    background-color: blueviolet;
+    margin: 0;
+    padding: 150px;
+}
+
+.resume-container {
+
+display:flex;
+background-color: white;
+width: 110%;
+margin: auto;
+background-origin: 10px;
+box-shadow: 0 0 20px wheat;
+
+}
+
+.left-section {
+
+    background-color: gray;
+    color: wheat;
+    padding: 20px;
+    width: 69%;
+    text-align: justify;
+    border-right: 5px solid ;
+
+}
+.right-section{
+    padding: 5px;
+    width: 79%;
+    background-color: gray
+}
+.profile-picture {
+
+    width: 150px;
+    height: 150px;
+    margin-top: 2%;
+    border-radius: 50%;
+    border: 5px solid;
+    margin-bottom: 20px;
+    display: flex;    
+}
+
+.profile-picture2 {
+
+    align-items: center;
+    width: 47px;
+    height: 50px;
+    margin-top: 2%;
+    border-radius: 50%;
+    border: 5px solid;
+    margin-bottom: 20px;
+    display:inline-flex  
+
+}
+h1 {
+    font-size: 24px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+
+h3{
+
+    font-size: 18px;
+    padding: 2%;
+    margin: 10px 0 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 50px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    box-shadow: 0 0 50px wheat
+
+}
+
+
+
+ul {
+
+    list-style-type: fill round;
+    padding: 10;
+    margin: 10px 0;
+
+}
+
+
+.right-section {
+
+padding: 20px;
+width: 65%;
+
+}
+
+
+button {
+
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 0 15px black ;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+    
+}
+
+button:hover {
+
+
+    background-color: blanchedalmond;
+}
+
+
+
+  
